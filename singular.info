@@ -16,5 +16,6 @@ scripts[] = "js/theme.js"
 
 regions[content] = "Content"
 regions[right] = "Sidebar"
+regions[footer] = "Footer"
 
 features[] = ""
