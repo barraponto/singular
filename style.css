@@ -102,6 +102,7 @@ body.fluid #sidebar { width:20%; }
     padding:0px 15px;
     }
 
+    #branding div.primary ul.links li.active-trail > a, 
     #branding div.primary ul.links a:hover { background:#39b; }
 
 #branding h1.site-name {
