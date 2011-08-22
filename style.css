@@ -412,6 +412,12 @@ div.node div.field { margin:0px 0px 10px; }
 
 div.prose { line-height:20px; }
 
+div.node div.fieldgroup legend {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
 /**
  * Pagers =============================================================
  */
